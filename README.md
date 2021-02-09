@@ -1,7 +1,9 @@
 # RainGaugeGame
 
+ 2nd Programming project in Processing(Java)
  Name: Aileen Drohan
- Student Number: 
+ Student Number:
+ HDip in Computer Science, WIT
  
  BRIEF DESCRIPTION OF THE ANIMATION ACHIEVED
    
